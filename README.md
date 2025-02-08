@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas do Lago Figueiredo  
 
-<!--
-**olucas-fg/olucas-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer | Intern at Pixel TI**  
+💡 Passionate about technology, programming, and innovation. Aiming to combine biomedical engineering with coding 
 
-Here are some ideas to get you started:
+📍 **From:** Brazil  
+💼 **Currently working as an intern at Pixel TI**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💻 I develop web applications using **ReactJS, HTML, CSS, JavaScript and TypeScript**.  
+- 🎯 I am currently learning **ReactJS and Node.js**.  
+- 🔍 Always exploring new technologies and best coding practices.  
+
+## 🛠️ Technologies & Tools  
+- **Languages:** JavaScript, TypeScript, HTML and CSS  
+- **Frameworks & Libraries:** ReactJS
+- **Development Tools:** Git, GitHub, VS Code  
+- **Others:** APIs, Webpack and Bundlers
+
+## 📈 GitHub Stats  
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olucas-fg&show_icons=true&theme=radical)  
+
+## 📫 Connect with Me  
+- 🌐 [GitHub](https://github.com/olucas-fg)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-do-lago-figueiredo-4a7229268/)  
+- 📷 [Instagram](https://www.instagram.com/olucasfg/)  
