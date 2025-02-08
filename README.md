@@ -18,7 +18,7 @@
 - **Others:** APIs, Webpack and Bundlers
 
 ## 📈 GitHub Stats  
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olucas-fg&show_icons=true&theme=radical)  
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olucas-fg&show_icons=true&theme=github_dark)  
 
 ## 📫 Connect with Me  
 - 🌐 [GitHub](https://github.com/olucas-fg)  
